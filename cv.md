@@ -1,4 +1,5 @@
 # **Roman Diyanov** #
+!(https://img.hhcdn.ru/photo/600649773.jpeg?t=1680810659&h=e1F2xrXWrDSjwCPKhcyEHA)
 ## **Junior Front-end Developer**
 ### **Contact information:**
 * **Phone:** +90 531 9318828
