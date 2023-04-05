@@ -1,8 +1,8 @@
 # **Roman Diyanov** #
-!(https://img.hhcdn.ru/photo/600649773.jpeg?t=1680810659&h=e1F2xrXWrDSjwCPKhcyEHA)
+![my foto](https://img.hhcdn.ru/photo/600649773.jpeg?t=1680810659&h=e1F2xrXWrDSjwCPKhcyEHA)
 ## **Junior Front-end Developer**
 ### **Contact information:**
-* **Phone:** +90 531 9318828
+* **Phone:** +90 531 9318829
 * **E-mail:** 15683@mail.ru
 * **Telegram:** [r15683](https://t.me/r15683)
 * **GitHub:** [15683](https://github.com/15683)
