@@ -20,20 +20,20 @@ I am a 40-year-old individual with a strong interest in the field of IT. My goal
 
 ### **Courses**:
 * **Computer Training Center "Specialist" at Bauman Moscow State Technical University (2012)** 
- * [HTML and CSS. Level 1. Creating sites in HTML 5 and CSS 3](https://www.specialist.ru/course/eichtml-b) 
+  * [HTML and CSS. Level 1. Creating sites in HTML 5 and CSS 3](https://www.specialist.ru/course/eichtml-b) 
 * **RS School (2023)** 
- * [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/)
+  * [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/)
 * **RS School (2023)** 
- * [JavaScript/Front-end](https://rs.school/js/)
+  * [JavaScript/Front-end](https://rs.school/js/)
 * **Udemy (2023)**
- * [Web Developer](https://www.udemy.com/course/webdeveloper/)
+  * [Web Developer](https://www.udemy.com/course/webdeveloper/)
 
 
 ### **Education:**
 * **Moscow State Regional University (2005)**
- * History, Political Science and Law, Teacher of History and Law ("History" with an additional specialty "Jurisprudence")
+  * History, Political Science and Law, Teacher of History and Law ("History" with an additional specialty "Jurisprudence")
 * **Postgraduate course at Moscow State Regional University (2008)**
- * Political institutions, ethnopolitical conflictology, national and political processes and technologies
+  * Political institutions, ethnopolitical conflictology, national and political processes and technologies
 
 ### **Languages:**
 * **Russian** - Native
