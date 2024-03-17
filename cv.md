@@ -6,7 +6,7 @@
 
 ### **Contact information:**
 
-- **Phone:** +90 531 9318829
+- **Phone:** +79161953742
 - **E-mail:** 15683@mail.ru
 - **Telegram:** [r15683](https://t.me/r15683)
 - **GitHub:** [15683](https://github.com/15683)
