@@ -22,18 +22,16 @@ I am a 40-year-old individual with a strong interest in the field of IT. My goal
 - Git/GitHub
 - Figma
 
-### **Code example:**
-
 ### **Courses**:
 
 - **Computer Training Center "Specialist" at Bauman Moscow State Technical University (2012)**
   - [HTML and CSS. Level 1. Creating sites in HTML 5 and CSS 3](https://www.specialist.ru/course/eichtml-b)
 - **RS School (2023)**
   - [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/)
-- **RS School (2023)**
-  - [JavaScript/Front-end](https://rs.school/js/)
 - **Udemy (2023)**
   - [Web Developer](https://www.udemy.com/course/webdeveloper/)
+- **HTML Academy (2023)**
+  - [Profession "JavaScript Developer + Backend Developer"](https://up.htmlacademy.ru/profession/react-backender-lite/2)
 
 ### **Education:**
 
